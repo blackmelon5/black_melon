@@ -1,11 +1,11 @@
 ## 프로젝트 이름
 
-- 누가 멜론에게 선글라스를 씌었을까?
+- 누가 멜론에게 선글라스를 씌웠을까?
 <br>
 
 ## 프로젝트 개요
 
-- 현재 음원 사이트에 씌어진 선글라스, 즉 어뷰징이 어떤 형태로 그 안에 존재하는지, 어떤 특징을 가지고 있는지 분석하고 시각화합니다.
+- 현재 음원 사이트에 씌워진 선글라스, 즉 어뷰징이 어떤 형태로 그 안에 존재하는지, 어떤 특징을 가지고 있는지 분석하고 시각화합니다.
 <br>
 
 ## Data 설명
@@ -66,6 +66,7 @@
 
 1. crawling
     - 음원 사이트 웹 크롤링 관련 코드
+    - Main File : [191211_song_album_artist_crawling_git.ipynb](https://github.com/blackmelon5/black_melon/blob/master/1)
 2. preprocessing
     - 데이터 전처리 관련 코드
 3. wordcloud
