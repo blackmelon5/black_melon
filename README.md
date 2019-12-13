@@ -75,15 +75,18 @@
     - Main File :  [계절별.ipynb](https://github.com/blackmelon5/black_melon/blob/master/3.%20Wordcloud/계절별.ipynb)
 4. genre visualization
     - 장르 데이터로 장르별 시각화를 구현한 코드
+    - Main File :  [1210_연결성 찾기.ipynb](https://github.com/blackmelon5/black_melon/blob/master/4.%20Genre visualization/1210_연결성 찾기.ipynb)
 5. abusing visualization
     - 차트에서 발견할 수 있는 어뷰징 음원의 특징을 시각화한 코드
+    - Main File :  [191212_abusing_visualization_git.ipynb](https://github.com/blackmelon5/black_melon/blob/master/5.%20Abusing visualization/191212_abusing_visualization_git.ipynb)
 6. clustering
     - 시각화한 특징을 바탕으로 가수 군집을 클러스터링한 코드
+    - Main File :  [Clustering_github.ipynb](https://github.com/blackmelon5/black_melon/blob/master/6.%20Clustering/Clustering_github.ipynb)
 7. make new chart
     - 전체 분석을 바탕으로 어뷰징의 영향을 최소화한 새로운 차트 구현 코드
 8. EDA
     - 그 외에 데이터로 시도한 가벼운 분석들
 
 ## Data 드라이브
-
+- 각 폴더별로 필요한 파일이 있습니다.
 - [https://drive.google.com/drive/folders/19dZ-3XPSDcx1kwc7pf5b_QSrDXUMumDj?usp=sharing](https://drive.google.com/drive/folders/19dZ-3XPSDcx1kwc7pf5b_QSrDXUMumDj?usp=sharing)
