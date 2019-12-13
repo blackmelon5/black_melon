@@ -66,13 +66,13 @@
 
 1. crawling
     - 음원 사이트 웹 크롤링 관련 코드
-    - Main File :  [191211_song_album_artist_crawling_git.ipynb](https://github.com/blackmelon5/black_melon/blob/master/1. Crawling/191211_song_album_artist_crawling_git.ipynb)
+    - Main File :  [191211_song_album_artist_crawling_git.ipynb](https://github.com/blackmelon5/black_melon/blob/master/1.%20Crawling/191211_song_album_artist_crawling_git.ipynb)
 2. preprocessing
     - 데이터 전처리 관련 코드
-    - Main File :  [191209_preprocessing_genre_fan.ipynb](https://github.com/blackmelon5/black_melon/blob/master/2. Preprocessing/191209_preprocessing_genre_fan.ipynb)
+    - Main File :  [191209_preprocessing_genre_fan.ipynb](https://github.com/blackmelon5/black_melon/blob/master/2.%20Preprocessing/191209_preprocessing_genre_fan.ipynb)
 3. wordcloud
     - 음원 제목으로 구현한 워드클라우드 관련 코드
-    - Main File :  [계절별.ipynb](https://github.com/blackmelon5/black_melon/blob/master/3. Wordcloud/계절별.ipynb)
+    - Main File :  [계절별.ipynb](https://github.com/blackmelon5/black_melon/blob/master/3.%20Wordcloud/계절별.ipynb)
 4. genre visualization
     - 장르 데이터로 장르별 시각화를 구현한 코드
 5. abusing visualization
